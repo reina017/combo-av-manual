@@ -2,7 +2,7 @@
 Scanned PDF of the original Japanese instruction manual for the Combo AV arcade control box.
 
 # View the Manual
-[Download the manual (PDF)](combo_av_manual.pdf?raw=true)
+[Open the manual (PDF)](combo_av_manual.pdf)
 
 # Language
 Japanese
